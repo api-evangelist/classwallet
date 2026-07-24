@@ -1,0 +1,30 @@
+# ClassWallet
+
+> ClassWallet is a patented digital wallet and public-funds disbursement platform used by government agencies, school districts, and program administrators to distribute, control, and reconcile public money. Recipients spend allocated funds online or in-store while administrators get spending controls, approved marketplaces, reimbursement workflows, direct vendor payments, and audit-ready reporting and compliance. It powers K-12 education programs, Education Savings Accounts (ESAs), scholarships and grants, government assistance, and vocational rehabilitation.
+
+This profile is an API Evangelist network company record. ClassWallet publishes product, program, and support surfaces but no public developer API or developer portal at this time.
+
+## Products
+- [Digital Wallet](https://classwallet.com/digital-wallet/): Managed digital wallet for distributing and spending public funds.
+- [DirectPay](https://classwallet.com/directpay/): Direct payments to vendors and service providers.
+- [Marketplace](https://classwallet.com/marketplace/): Approved vendor marketplace for compliant fund spending.
+- [Reimbursement](https://classwallet.com/reimbursement/): Reimbursement submission and approval workflows.
+
+## Solutions
+- [Government Agencies](https://classwallet.com/government/): Public-funds distribution and compliance for agencies.
+- [School Districts](https://classwallet.com/education/): K-12 education fund management.
+- [Scholarships & Grants](https://classwallet.com/scholarships-grants/): Scholarship and grant disbursement.
+
+## Apps
+- [User Login](https://app.classwallet.com/): Recipient and administrator application.
+- [Vendor Login](https://vendor.classwallet.com/): Vendor portal.
+
+## Docs
+- [Support](https://classwallet.com/support/): Help and support center.
+- [About Us](https://classwallet.com/about-us/): Company overview.
+- [News](https://classwallet.com/category/news/): Company news and updates.
+- [Learning Center](https://classwallet.com/category/resources/): Resources and guides.
+
+## Legal
+- [Terms of Use](https://classwallet.com/terms-of-use/)
+- [Privacy Policy](https://classwallet.com/privacy-policy/)
